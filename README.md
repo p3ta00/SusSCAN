@@ -1,4 +1,4 @@
-# Better_Map
+# SusSCAN
 
 This repository contains a Bash script that performs multiple Nmap scans on a target IP address and highlights the output using a custom AWK-based highlighting function. The script is designed for reconnaissance and penetration testing (only use it on networks you are authorized to scan).
 
