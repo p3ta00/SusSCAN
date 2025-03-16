@@ -43,7 +43,7 @@ This repository contains a Bash script that performs multiple Nmap scans on a ta
     ```
 4. **Make it executable:**
    ```
-   chmod +x SusSCAN.sh && sudo cp SusSCAN.sh /usr/local/bin/better_map
+   chmod +x SusSCAN.sh && sudo cp SusSCAN.sh /usr/local/SusSCAN
    ```
    
    The script will perform the following scans sequentially:
