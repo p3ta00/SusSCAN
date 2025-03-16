@@ -33,7 +33,7 @@ This repository contains a Bash script that performs multiple Nmap scans on a ta
 2. **Make the script executable:**
 
     ```bash
-    chmod +x test5.sh
+    chmod +x SusSCAN.sh
     ```
 
 3. **Run the script with a target IP address or hostname:**
