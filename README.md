@@ -26,8 +26,8 @@ This repository contains a Bash script that performs multiple Nmap scans on a ta
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/p3ta00/SusSCAN.git
+    cd SusSCAN
     ```
 
 2. **Make the script executable:**
